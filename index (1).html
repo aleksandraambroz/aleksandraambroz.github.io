@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aleksandra Ambroż - Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <!-- Logo / Icon -->
+        <div class="logo-container">
+            <div class="logo-circle">
+                <svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M35 35 L20 50 L35 65 M65 35 L80 50 L65 65" fill="none" stroke="#007bff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+                    <path d="M50 20 L55 30 L50 70 L45 80 L50 85 L55 80 L50 70" fill="#007bff" />
+                    <circle cx="50" cy="20" r="3" fill="#007bff" />
+                </svg>
+            </div>
+        </div>
+
+        <!-- Personal Info -->
+        <h1>Aleksandra Ambroż</h1>
+        <p class="description">
+            Jestem studentką na I roku studiów na kierunku Programowanie w Wyższej Szkole Informatyki i Zarządzania w Bielsku-Białej. Interesuje się specjalizacjami dziedziny IT takimi jak tym inżynierię oprogramowania, cyberbezpieczeństwo i grafika komputerowa.
+        </p>
+
+        <!-- GitHub Button -->
+        <a href="#" class="github-btn">GitHub</a>
+
+        <!-- Email Display -->
+        <div class="email-display">aleksandra.ambroz0@gmail.com</div>
+
+        <!-- Contact Form -->
+        <form class="contact-form">
+            <div class="form-group">
+                <label for="name">Imię *</label>
+                <input type="text" id="name" required>
+            </div>
+            
+            <div class="form-group">
+                <label for="email">Adres e-mail *</label>
+                <input type="email" id="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Treść *</label>
+                <textarea id="message" rows="6" required></textarea>
+            </div>
+
+            <button type="submit" class="submit-btn">Wyślij</button>
+        </form>
+    </div>
+</body>
+</html>
