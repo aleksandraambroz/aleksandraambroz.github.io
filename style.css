@@ -722,3 +722,24 @@ textarea {
     .logo-circle { width: 180px; height: 180px; }
     .graphics-container { grid-template-columns: 1fr; }
 }
+
+
+/* Selektor dopasowany do Twojego pliku graficznego */
+img[src*="Ikona.png"] {
+    display: block;
+    margin: 0 auto; /* Wyśrodkowanie, jeśli jeszcze go nie ma */
+    animation: floatAnimation 4s ease-in-out infinite;
+}
+
+@keyframes floatAnimation {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-8px); /* Delikatne uniesienie o 8 pikseli */
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
