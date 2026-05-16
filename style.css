@@ -99,4 +99,626 @@
     box-shadow: -2vmin 0 0.32924679103379495vmin currentColor;
 }
 .background span:nth-child(8) {
-    color: #1a3847
+    color: #1a3847;
+    top: 46%;
+    left: 91%;
+    animation-duration: 100s;
+    animation-delay: -211s;
+    transform-origin: -22vw -12vh;
+    box-shadow: 2vmin 0 0.2652570887175736vmin currentColor;
+}
+.background span:nth-child(9) {
+    color: #1a3847;
+    top: 14%;
+    left: 2%;
+    animation-duration: 71s;
+    animation-delay: -275s;
+    transform-origin: 21vw 5vh;
+    box-shadow: -2vmin 0 1.0401412097886427vmin currentColor;
+}
+.background span:nth-child(10) {
+    color: #1a3847;
+    top: 53%;
+    left: 34%;
+    animation-duration: 65s;
+    animation-delay: -240s;
+    transform-origin: 10vw 0vh;
+    box-shadow: 2vmin 0 0.808013113345236vmin currentColor;
+}
+.background span:nth-child(11) {
+    color: #1a3847;
+    top: 43%;
+    left: 69%;
+    animation-duration: 213s;
+    animation-delay: -309s;
+    transform-origin: 7vw 20vh;
+    box-shadow: -2vmin 0 1.1109145468975279vmin currentColor;
+}
+.background span:nth-child(12) {
+    color: #1a3847;
+    top: 50%;
+    left: 56%;
+    animation-duration: 67s;
+    animation-delay: -121s;
+    transform-origin: 17vw 9vh;
+    box-shadow: -2vmin 0 0.5546560815474307vmin currentColor;
+}
+.background span:nth-child(13) {
+    color: #1a3847;
+    top: 56%;
+    left: 89%;
+    animation-duration: 231s;
+    animation-delay: -312s;
+    transform-origin: -3vw -19vh;
+    box-shadow: 2vmin 0 1.2015568345285046vmin currentColor;
+}
+.background span:nth-child(14) {
+    color: #1a3847;
+    top: 57%;
+    left: 7%;
+    animation-duration: 199s;
+    animation-delay: -134s;
+    transform-origin: 14vw -21vh;
+    box-shadow: -2vmin 0 0.67943806786114vmin currentColor;
+}
+.background span:nth-child(15) {
+    color: #1a3847;
+    top: 41%;
+    left: 33%;
+    animation-duration: 253s;
+    animation-delay: -373s;
+    transform-origin: 20vw 19vh;
+    box-shadow: -2vmin 0 0.4134266155531898vmin currentColor;
+}
+.background span:nth-child(16) {
+    color: #1a3847;
+    top: 23%;
+    left: 82%;
+    animation-duration: 340s;
+    animation-delay: -25s;
+    transform-origin: -18vw 22vh;
+    box-shadow: 2vmin 0 0.949637185379187vmin currentColor;
+}
+.background span:nth-child(17) {
+    color: #1a3847;
+    top: 1%;
+    left: 62%;
+    animation-duration: 255s;
+    animation-delay: -308s;
+    transform-origin: -4vw 12vh;
+    box-shadow: -2vmin 0 0.7669339445545093vmin currentColor;
+}
+.background span:nth-child(18) {
+    color: #1a3847;
+    top: 87%;
+    left: 92%;
+    animation-duration: 90s;
+    animation-delay: -16s;
+    transform-origin: 20vw -2vh;
+    box-shadow: 2vmin 0 0.9324633015515772vmin currentColor;
+}
+.background span:nth-child(19) {
+    color: #1a3847;
+    top: 11%;
+    left: 3%;
+    animation-duration: 350s;
+    animation-delay: -319s;
+    transform-origin: 17vw -19vh;
+    box-shadow: -2vmin 0 0.3196581932487965vmin currentColor;
+}
+.background span:nth-child(20) {
+    color: #1a3847;
+    top: 8%;
+    left: 34%;
+    animation-duration: 241s;
+    animation-delay: -282s;
+    transform-origin: -6vw 6vh;
+    box-shadow: -2vmin 0 0.8719533564841415vmin currentColor;
+}
+.background span:nth-child(21) {
+    color: #1a3847;
+    top: 63%;
+    left: 97%;
+    animation-duration: 166s;
+    animation-delay: -13s;
+    transform-origin: -18vw -4vh;
+    box-shadow: 2vmin 0 0.3086359395314118vmin currentColor;
+}
+.background span:nth-child(22) {
+    color: #1a3847;
+    top: 82%;
+    left: 68%;
+    animation-duration: 299s;
+    animation-delay: -170s;
+    transform-origin: 25vw 4vh;
+    box-shadow: -2vmin 0 0.27292341738096104vmin currentColor;
+}
+.background span:nth-child(23) {
+    color: #1a3847;
+    top: 80%;
+    left: 74%;
+    animation-duration: 278s;
+    animation-delay: -248s;
+    transform-origin: 3vw 23vh;
+    box-shadow: 2vmin 0 1.0813178349768244vmin currentColor;
+}
+.background span:nth-child(24) {
+    color: #1a3847;
+    top: 67%;
+    left: 89%;
+    animation-duration: 357s;
+    animation-delay: -237s;
+    transform-origin: -18vw 4vh;
+    box-shadow: -2vmin 0 0.8640007605600499vmin currentColor;
+}
+.background span:nth-child(25) {
+    color: #1a3847;
+    top: 60%;
+    left: 37%;
+    animation-duration: 281s;
+    animation-delay: -214s;
+    transform-origin: 24vw -21vh;
+    box-shadow: 2vmin 0 0.9630031751381188vmin currentColor;
+}
+.background span:nth-child(26) {
+    color: #1a3847;
+    top: 21%;
+    left: 39%;
+    animation-duration: 114s;
+    animation-delay: -88s;
+    transform-origin: -12vw 6vh;
+    box-shadow: 2vmin 0 1.0431580919158832vmin currentColor;
+}
+.background span:nth-child(27) {
+    color: #1a3847;
+    top: 71%;
+    left: 12%;
+    animation-duration: 219s;
+    animation-delay: -373s;
+    transform-origin: -16vw -18vh;
+    box-shadow: -2vmin 0 0.2542737667944742vmin currentColor;
+}
+.background span:nth-child(28) {
+    color: #1a3847;
+    top: 45%;
+    left: 61%;
+    animation-duration: 248s;
+    animation-delay: -238s;
+    transform-origin: -15vw -20vh;
+    box-shadow: 2vmin 0 0.9859873035881397vmin currentColor;
+}
+.background span:nth-child(29) {
+    color: #1a3847;
+    top: 59%;
+    left: 53%;
+    animation-duration: 125s;
+    animation-delay: -211s;
+    transform-origin: 16vw -3vh;
+    box-shadow: 2vmin 0 1.021913509521463vmin currentColor;
+}
+.background span:nth-child(30) {
+    color: #1a3847;
+    top: 98%;
+    left: 16%;
+    animation-duration: 203s;
+    animation-delay: -193s;
+    transform-origin: 19vw -16vh;
+    box-shadow: 2vmin 0 0.5577026614633255vmin currentColor;
+}
+.background span:nth-child(31) {
+    color: #1a3847;
+    top: 59%;
+    left: 53%;
+    animation-duration: 157s;
+    animation-delay: -216s;
+    transform-origin: -3vw -17vh;
+    box-shadow: -2vmin 0 0.2956552877869598vmin currentColor;
+}
+.background span:nth-child(32) {
+    color: #1a3847;
+    top: 90%;
+    left: 75%;
+    animation-duration: 169s;
+    animation-delay: -357s;
+    transform-origin: 0vw -8vh;
+    box-shadow: 2vmin 0 1.1700772277660585vmin currentColor;
+}
+.background span:nth-child(33) {
+    color: #1a3847;
+    top: 61%;
+    left: 71%;
+    animation-duration: 171s;
+    animation-delay: -325s;
+    transform-origin: 7vw 16vh;
+    box-shadow: -2vmin 0 0.4806042700803018vmin currentColor;
+}
+.background span:nth-child(34) {
+    color: #1a3847;
+    top: 54%;
+    left: 55%;
+    animation-duration: 90s;
+    animation-delay: -183s;
+    transform-origin: -7vw -16vh;
+    box-shadow: 2vmin 0 0.6220076731578287vmin currentColor;
+}
+.background span:nth-child(35) {
+    color: #1a3847;
+    top: 48%;
+    left: 35%;
+    animation-duration: 222s;
+    animation-delay: -362s;
+    transform-origin: -20vw 22vh;
+    box-shadow: -2vmin 0 0.8162165027817375vmin currentColor;
+}
+.background span:nth-child(36) {
+    color: #1a3847;
+    top: 98%;
+    left: 46%;
+    animation-duration: 238s;
+    animation-delay: -35s;
+    transform-origin: -9vw -6vh;
+    box-shadow: -2vmin 0 1.1265492639184544vmin currentColor;
+}
+.background span:nth-child(37) {
+    color: #1a3847;
+    top: 50%;
+    left: 1%;
+    animation-duration: 282s;
+    animation-delay: -143s;
+    transform-origin: 13vw -3vh;
+    box-shadow: 2vmin 0 0.35903390512568045vmin currentColor;
+}
+.background span:nth-child(38) {
+    color: #1a3847;
+    top: 71%;
+    left: 45%;
+    animation-duration: 222s;
+    animation-delay: -260s;
+    transform-origin: -15vw -18vh;
+    box-shadow: -2vmin 0 0.9333449899946312vmin currentColor;
+}
+.background span:nth-child(39) {
+    color: #1a3847;
+    top: 33%;
+    left: 73%;
+    animation-duration: 220s;
+    animation-delay: -189s;
+    transform-origin: -17vw -1vh;
+    box-shadow: -2vmin 0 0.5454355510681352vmin currentColor;
+}
+.background span:nth-child(40) {
+    color: #1a3847;
+    top: 10%;
+    left: 52%;
+    animation-duration: 135s;
+    animation-delay: -158s;
+    transform-origin: -18vw 16vh;
+    box-shadow: -2vmin 0 0.7567403090181405vmin currentColor;
+}
+.background span:nth-child(41) {
+    color: #1a3847;
+    top: 58%;
+    left: 78%;
+    animation-duration: 248s;
+    animation-delay: -282s;
+    transform-origin: -10vw 19vh;
+    box-shadow: -2vmin 0 0.2828682123850452vmin currentColor;
+}
+.background span:nth-child(42) {
+    color: #1a3847;
+    top: 42%;
+    left: 78%;
+    animation-duration: 34s;
+    animation-delay: -258s;
+    transform-origin: 13vw -15vh;
+    box-shadow: -2vmin 0 0.8076819040345671vmin currentColor;
+}
+.background span:nth-child(43) {
+    color: #1a3847;
+    top: 41%;
+    left: 6%;
+    animation-duration: 89s;
+    animation-delay: -95s;
+    transform-origin: -22vw -17vh;
+    box-shadow: 2vmin 0 0.44549666638144214vmin currentColor;
+}
+.background span:nth-child(44) {
+    color: #1a3847;
+    top: 99%;
+    left: 49%;
+    animation-duration: 96s;
+    animation-delay: -138s;
+    transform-origin: -13vw 21vh;
+    box-shadow: -2vmin 0 0.29021413990986655vmin currentColor;
+}
+.background span:nth-child(45) {
+    color: #1a3847;
+    top: 45%;
+    left: 88%;
+    animation-duration: 284s;
+    animation-delay: -211s;
+    transform-origin: -10vw 15vh;
+    box-shadow: 2vmin 0 0.7574996948279131vmin currentColor;
+}
+.background span:nth-child(46) {
+    color: #1a3847;
+    top: 43%;
+    left: 93%;
+    animation-duration: 295s;
+    animation-delay: -210s;
+    transform-origin: 18vw 23vh;
+    box-shadow: -2vmin 0 0.44491550130907953vmin currentColor;
+}
+.background span:nth-child(47) {
+    color: #1a3847;
+    top: 31%;
+    left: 59%;
+    animation-duration: 85s;
+    animation-delay: -113s;
+    transform-origin: -15vw 1vh;
+    box-shadow: -2vmin 0 0.7366527130271949vmin currentColor;
+}
+.background span:nth-child(48) {
+    color: #1a3847;
+    top: 85%;
+    left: 26%;
+    animation-duration: 288s;
+    animation-delay: -283s;
+    transform-origin: 24vw -5vh;
+    box-shadow: -2vmin 0 0.8213061505726715vmin currentColor;
+}
+.background span:nth-child(49) {
+    color: #1a3847;
+    top: 82%;
+    left: 64%;
+    animation-duration: 91s;
+    animation-delay: -266s;
+    transform-origin: -19vw -5vh;
+    box-shadow: -2vmin 0 0.6161011347721504vmin currentColor;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 40px 20px;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 650px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Logo Styling */
+.logo-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+
+.logo-circle {
+    background-color: #ffffff;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+
+.logo-circle svg {
+    width: 100%;
+    height: 100%;
+}
+
+/* Typography */
+h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 15px;
+}
+
+.description {
+    font-size: 1.1rem;
+    color: #e0e0e0;
+    margin-bottom: 30px;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Buttons */
+.github-btn {
+    display: inline-block;
+    background-color: #0066cc;
+    color: white;
+    text-decoration: none;
+    padding: 12px 60px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 1.4rem;
+    margin-bottom: 25px;
+    transition: background-color 0.3s;
+}
+
+.github-btn:hover {
+    background-color: #0052a3;
+}
+
+.email-display {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+}
+
+/* Form Styling */
+.contact-form {
+    text-align: left;
+    max-width: 450px;
+    margin: 40px auto 0 auto;
+    background: rgba(17, 17, 17, 0.7); 
+    padding: 30px;
+    border-radius: 12px;
+    border: 1px solid #333; /* Poprawiono widoczność ramki */
+    backdrop-filter: blur(5px); 
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    color: #0084ff;
+    font-weight: 700;
+    margin-bottom: 8px;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 12px 16px;
+    border: 1px solid #333;
+    border-radius: 8px;
+    background-color: #161616;
+    color: #ffffff;
+    font-size: 1rem;
+    font-family: 'Inter', sans-serif;
+    transition: all 0.3s ease;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+textarea:focus {
+    outline: none;
+    border-color: #0084ff;
+    background-color: #1c1c1c;
+    box-shadow: 0 0 10px rgba(0, 132, 255, 0.2);
+}
+
+textarea {
+    resize: none;
+}
+
+.submit-btn {
+    width: 100%;
+    background: linear-gradient(135deg, #0084ff, #0052a3);
+    color: white;
+    border: none;
+    padding: 14px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.submit-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px rgba(0, 132, 255, 0.4);
+}
+
+.submit-btn:active {
+    transform: translateY(0);
+}
+
+/* ==========================================================================
+   POPRAWIONE: Specyficzne Style dla Nowych Sekcji na GitHubie
+   ========================================================================== */
+
+/* Siatka dla języków programowania */
+.skills-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+/* Wygląd badge'a języka - jawnie wymuszone kolory tła i obramowania */
+.skill-badge {
+    background-color: #111111 !important;
+    border: 1px solid #0084ff !important; /* Zamieniono na świecący błękit, by na GitHubie na pewno były widoczne */
+    padding: 10px 24px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 1rem;
+    color: #ffffff !important;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.skill-badge:hover {
+    background-color: #0084ff !important;
+    color: #ffffff !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 132, 255, 0.4);
+}
+
+/* Kontener dla sekcji graficznej oparty o Grid */
+.graphics-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+
+/* Boxy graficzne - jawnie zdefiniowane tło oraz ramka */
+.graphic-box {
+    background-color: #111111 !important;
+    border: 1px solid #333333 !important;
+    padding: 25px;
+    border-radius: 12px;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+.graphic-box h3 {
+    color: #0084ff;
+    font-size: 1.2rem;
+    margin-bottom: 12px;
+}
+
+.graphic-box p {
+    font-size: 0.9rem;
+    color: #b3b3b3;
+    line-height: 1.5;
+}
+
+/* Tagowanie oprogramowania */
+.software-tag {
+    font-size: 0.8rem;
+    background-color: #222222 !important;
+    border: 1px solid #444444;
+    padding: 4px 10px;
+    border-radius: 4px;
+    color: #0084ff !important;
+    margin-right: 6px;
+    display: inline-block;
+}
+
+/* Mobile Adjustments */
+@media (max-width: 480px) {
+    h1 { font-size: 2rem; }
+    .logo-circle { width: 180px; height: 180px; }
+    .graphics-container { grid-template-columns: 1fr; }
+}
